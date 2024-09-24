@@ -1,9 +1,9 @@
 package com.edubridge.myapp.model;
 
 public class employee {
-
-	public employee() {
-		// TODO Auto-generated constructor stub
-	}
-
+	private int empId;
+	private String empName;
+	private double EmpSalary;
 }
+
+	
